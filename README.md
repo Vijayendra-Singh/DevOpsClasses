@@ -1,3 +1,3 @@
 # DevOpsClasses
 DevOps Sessions
-# Making a new entry
+Making a new entry
